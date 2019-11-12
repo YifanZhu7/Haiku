@@ -1,0 +1,77 @@
+.control-bar
+{
+	float: right;
+}
+.triangle-left
+{
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-right: 50px solid #555;
+	border-bottom: 25px solid transparent;
+	display: inline-block;
+}
+.triangle-right 
+{
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-left: 50px solid #555;
+	border-bottom: 25px solid transparent;
+	display: inline-block;
+}
+
+
+img
+{
+	margin-left: 260px;
+	margin-top: 307px;
+	display: inline-block;
+}
+
+pre
+{
+	display: inline-block;
+	font-size: 13px;
+}
+
+.Haiku1
+{
+	display: inline-block;
+	font-size: 20px;
+	color: rgb(156,45,48);
+}
+.Haiku2
+{
+	display: inline-block;
+	font-size: 20px;
+	color: rgb(142,141,140);
+}
+.Haiku3
+{
+	display: inline-block;
+	font-size: 20px;
+	color: rgb(240,109,78);
+}
+.Haiku4
+{
+	display: inline-block;
+	font-size: 20px;
+	color: rgb(84,103,121);
+}
+.Haiku5
+{
+	display: inline-block;
+	font-size: 20px;
+	color: rgb(193,65,121);
+}
+
+/*img:hover 
+{
+	margin-left: 360px;
+	visibility: visible;
+}*/
+h1
+{
+	font-size: 100px;
+}
